@@ -19,8 +19,8 @@
 
 ## Technologies and Skills
 ### Version Control 
-<a><img height="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></a> 
-<a><img height="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></a>
+<a><img height="40" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
+<a><img height="40" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 
 ### Tools
 <a><img height="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"></a>
@@ -63,4 +63,5 @@
 
 ## Contact
 
-💻<a href="https://mario0909-dev.github.io/Portfolio/">Web Portfolio </a>
+<a href="https://mario0909-dev.github.io/Portfolio/"><img height="40" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" >Web Portfolio </a>
+
