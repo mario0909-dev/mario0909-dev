@@ -4,7 +4,7 @@
 
 <div style="width: 100%;">
   <a href="https://github.com/mario0909-dev">
-    <svg src="test.svg" style="width: 100%;height:20rem" alt="Click to see the source">
+    <img src="test.svg" style="width: 100%;height:20rem" alt="Click to see the source">
   </a>
 </div>
 
@@ -12,14 +12,12 @@
 
 - 🌱 Currently, I am learning **Node.js**
 - 👯 I would love to collaborate in **Web** Projects
-- 📫 Contact: **mariogl0909@gmail.com**
-- ⚡ Fun fact: **I also love blender**
+- ⚡ Fun fact: **I also into blender**
 
-![GIF o imagen que represente tus intereses o personalidad](url_del_gif_o_imagen)
 
 ## Mis Estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mario0909-dev&show_icons=true)
 
 ## Tecnologías y Herramientas
 
