@@ -5,7 +5,7 @@
   </a>
 </div>
 
-## Sobre Mí
+## About me
 
 - ⚙️ RPA Developer at **VIEWNEXT**
 - 🌱 Currently, I am learning **Node.js**
@@ -13,7 +13,7 @@
 - ⚡ Fun fact: **I also into blender**
 
 
-## Mis Estadísticas de GitHub
+## GitHub stats
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mario0909-dev&show_icons=true)
 
