@@ -17,11 +17,16 @@
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mario0909-dev&show_icons=true)
 
-## Tecnologías y Herramientas
-<a><img height="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></a>
+## Technologies and Skills
+### Version Control
+<a><img height="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></a>
 <a><img height="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></a>
 
-
+### Tools
+<a><img height="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"></a>
+<a><img height="40" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png"></a>
+<a><img height="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"></a>
+<a><img height="40" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png"></a>
 ## Proyectos Destacados
 
 [//]: # (Puedes destacar algunos proyectos aquí, con imágenes o GIFs si es necesario)
