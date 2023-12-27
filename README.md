@@ -4,12 +4,13 @@
 
 <div style="width: 100%;">
   <a href="https://github.com/mario0909-dev">
-    <img src="test.svg" style="width: 100%;height:20rem;" alt="Click to see the source">
+    <img src="test.svg" style="width: 100%;height:10rem;" alt="Click to see the source">
   </a>
 </div>
 
 ## Sobre Mí
 
+- ⚙️ RPA Developer at **VIEWNEXT**
 - 🌱 Currently, I am learning **Node.js**
 - 👯 I would love to collaborate in **Web** Projects
 - ⚡ Fun fact: **I also into blender**
