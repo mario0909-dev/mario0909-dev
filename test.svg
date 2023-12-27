@@ -19,7 +19,7 @@
                 --color-background: #05090D;
 
 
-                height: 20rem;
+                height: 10rem;
                 width: 100%;
             
                 display: flex;
