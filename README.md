@@ -58,6 +58,9 @@
 <a><img height="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"></a>
 <a><img height="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17"></a>
 
+### Game Dev
+<a><img height="40" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png"></a>
+
 ## Proyectos Destacados
 
 [//]: # (Puedes destacar algunos proyectos aquí, con imágenes o GIFs si es necesario)
