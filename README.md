@@ -10,13 +10,10 @@
 
 ## Sobre Mí
 
-- 🌱 Actualmente estoy aprendiendo **[Tecnologías o habilidades]**
-- 👯 Busco colaborar en **[Tipo de proyectos]**
-- 🤔 Busco ayuda con **[Áreas en las que necesitas ayuda]**
-- 💬 Pregúntame sobre **[Temas de interés]**
-- 📫 Cómo contactarme: **[Tu correo electrónico o enlace a otra plataforma]**
-- 😄 Pronombres: **[Tus pronombres, si deseas incluirlos]**
-- ⚡ Dato curioso: **[Un hecho interesante sobre ti]**
+- 🌱 Currently, I am learning **Node.js**
+- 👯 I would love to collaborate in **Web** Projects
+- 📫 Contact: **mariogl0909@gmail.com**
+- ⚡ Fun fact: **I also love blender**
 
 ![GIF o imagen que represente tus intereses o personalidad](url_del_gif_o_imagen)
 
