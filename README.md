@@ -20,10 +20,9 @@
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mario0909-dev&show_icons=true)
 
 ## Tecnologías y Herramientas
+<a><img height="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></a>
+<a><img height="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></a>
 
-[//]: # (Añade íconos o imágenes de las tecnologías y herramientas que utilizas)
-
-![Nombre](Enlace_del_ícono) ![Nombre](Enlace_del_ícono)
 
 ## Proyectos Destacados
 
