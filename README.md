@@ -10,7 +10,7 @@
 - ⚙️ RPA Developer at **VIEWNEXT**
 - 🌱 Currently, I am learning **Node.js**
 - 👯 I would love to collaborate in **Web** Projects
-- ⚡ Fun fact: **I also into blender**
+- ⚡ I am also a Game Dev
 
 
 ## GitHub stats
@@ -60,6 +60,9 @@
 ### Game Dev
 <a><img height="40" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>
 <a><img height="40" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
+
+## Projects 
+- <a href="https://github.com/mario0909-dev/Login-with-Discord---Node.js"> Login with Discord - Node JS </a>
 
 ## Contact
 
