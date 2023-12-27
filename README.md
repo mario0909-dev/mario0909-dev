@@ -61,14 +61,6 @@
 ### Game Dev
 <a><img height="40" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png"></a>
 
-## Proyectos Destacados
+## Contact
 
-[//]: # (Puedes destacar algunos proyectos aquí, con imágenes o GIFs si es necesario)
-
-- **[Nombre del Proyecto]** - Descripción breve. ![Imagen del Proyecto](url_de_la_imagen_del_proyecto)
-
-## Conéctate conmigo
-
-[//]: # (Enlaces a tus redes sociales o perfiles profesionales)
-
-[![Nombre](Enlace_del_ícono)](Enlace_a_tu_perfil)
+💻<a href="https://mario0909-dev.github.io/Portfolio/">Web Portfolio </a>
