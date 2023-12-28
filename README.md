@@ -70,3 +70,8 @@
 - <a href="https://www.linkedin.com/in/mario-gonzalez-lopezosa/">Linnkedin </a>
 - <a href="https://github.com/mario0909-dev">GitHub </a>
 
+<a href="https://www.buymeacoffee.com/shadditz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+![pixel-art-kirokaze-17](https://github.com/mario0909-dev/mario0909-dev/assets/59892048/bbc3cf00-611b-4e56-ac06-c4f30da87b78)
+
+
