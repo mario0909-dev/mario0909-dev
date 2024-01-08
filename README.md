@@ -8,7 +8,7 @@
 ## About me
 
 - ⚙️ RPA Developer at **VIEWNEXT**
-- 🌱 Currently, I am learning **Node.js** & React
+- 🌱 Currently, I am learning **Node.js** & **React**
 - 👯 I would love to collaborate in **Web** Projects
 - ⚡ I am also a Game Dev
 
