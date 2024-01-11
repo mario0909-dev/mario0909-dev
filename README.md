@@ -19,7 +19,7 @@ src="test.svg" style="width: 100%;height:10rem;" alt="Click to see the source">
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mario0909-dev&show_icons=true)
 ## RPA Technologies
 <a><img height="40" src="https://portal.blueprism.com/themes/custom/prismatic/logo.svg"></a> <br>
-<a><img height="40" src="https://uipath.com/cdn-cgi/image/format=auto/"></a> 
+<a><img height="40" src="https://uipath.com/cdn-cgi/image/format=auto/https:////images.ctfassets.net/5965pury2lcm/6MFhCGfXVbY8jUOQaPJiTh/5eb6cb527c6eba6e80ec27a7ab11fef9/UiPath_Color.png"></a> 
 
 
 ## Technologies and Skills
