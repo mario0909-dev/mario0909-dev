@@ -72,7 +72,7 @@ src="test.svg" style="width: 100%;height:10rem;" alt="Click to see the source">
 ## Contact
 
 - <a href="https://mario0909-dev.github.io/Portfolio/">Web Portfolio </a>
-- <a href="https://www.linkedin.com/in/mario-gonzalez-lopezosa/">Linnkedin </a>
+- <a href="https://www.linkedin.com/in/mario-gonzalez-lopezosa/">Linkedin </a>
 - <a href="https://github.com/mario0909-dev">GitHub </a>
 
 <a href="https://www.buymeacoffee.com/shadditz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
