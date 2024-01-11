@@ -17,8 +17,11 @@ src="test.svg" style="width: 100%;height:10rem;" alt="Click to see the source">
 <a><img height="40" src="https://portal.blueprism.com/themes/custom/prismatic/logo.svg"></a> <br>
 <a><img height="40" src="https://uipath.com/cdn-cgi/image/format=auto/https:////images.ctfassets.net/5965pury2lcm/6MFhCGfXVbY8jUOQaPJiTh/5eb6cb527c6eba6e80ec27a7ab11fef9/UiPath_Color.png"></a> 
 
+## Certifications
+<a href="https://www.credly.com/badges/abcfb8e4-63db-42fd-9a52-8d2cb3fa3968/public_url"><img height="100" src="https://images.credly.com/size/680x680/images/d2298e82-b671-434a-876b-21a0ebc3af0e/image.png"></a>
+<a href="https://www.credly.com/badges/f8dcec28-383e-442a-8e6c-e4276f856ed7/public_url"><img height="100" src="https://images.credly.com/size/680x680/images/9b8f3d6e-ba8a-41e0-8f1c-8bdd4b267cb0/image.png"></a>
 
-## Technologies and Skills
+## Other technologies and Skills
 ### Version Control 
 <a><img height="40" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
 <a><img height="40" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
