@@ -1,7 +1,8 @@
 
 <div style="width: 100%;">
   <a href="https://github.com/mario0909-dev">
-    <img src="test.svg" style="width: 100%;height:10rem;" alt="Click to see the source">
+    <img ![Uploading bp.svg…]()
+src="test.svg" style="width: 100%;height:10rem;" alt="Click to see the source">
   </a>
 </div>
 
@@ -17,7 +18,8 @@
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mario0909-dev&show_icons=true)
 ## RPA Technologies
-<a><img height="40" src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://files.blueprism.com/uploads/resources/media-center/Blue-Prism-Blue-Logo-Thumbnail.png)"></a> 
+<a><img height="40" src="https://portal.blueprism.com/themes/custom/prismatic/logo.svg"></a> <br>
+<a><img height="40" src="https://uipath.com/cdn-cgi/image/format=auto/"></a> 
 
 
 ## Technologies and Skills
