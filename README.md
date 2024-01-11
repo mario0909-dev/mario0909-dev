@@ -10,7 +10,6 @@ src="test.svg" style="width: 100%;height:10rem;" alt="Click to see the source">
 
 - ⚙️ RPA Developer at **VIEWNEXT**
 - 🌱 Currently, I am learning **Node.js** & **React**
-- 👯 I would love to collaborate in **Web** Projects
 - ⚡ I am also a Game Dev
 
 ## RPA Technologies
