@@ -16,6 +16,9 @@
 ## GitHub stats
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mario0909-dev&show_icons=true)
+## RPA Technologies
+<a><img height="40" src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://files.blueprism.com/uploads/resources/media-center/Blue-Prism-Blue-Logo-Thumbnail.png)"></a> 
+
 
 ## Technologies and Skills
 ### Version Control 
