@@ -13,10 +13,6 @@ src="test.svg" style="width: 100%;height:10rem;" alt="Click to see the source">
 - 👯 I would love to collaborate in **Web** Projects
 - ⚡ I am also a Game Dev
 
-
-## GitHub stats
-
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mario0909-dev&show_icons=true)
 ## RPA Technologies
 <a><img height="40" src="https://portal.blueprism.com/themes/custom/prismatic/logo.svg"></a> <br>
 <a><img height="40" src="https://uipath.com/cdn-cgi/image/format=auto/https:////images.ctfassets.net/5965pury2lcm/6MFhCGfXVbY8jUOQaPJiTh/5eb6cb527c6eba6e80ec27a7ab11fef9/UiPath_Color.png"></a> 
@@ -68,6 +64,8 @@ src="test.svg" style="width: 100%;height:10rem;" alt="Click to see the source">
 ## Projects 
 - <a href="https://github.com/mario0909-dev/Login-with-Discord---Node.js"> Login with Discord - Node JS </a>
 
+## GitHub stats
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mario0909-dev&show_icons=true)
 ## Contact
 
 - <a href="https://mario0909-dev.github.io/Portfolio/">Web Portfolio </a>
