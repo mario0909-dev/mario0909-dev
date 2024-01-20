@@ -18,6 +18,7 @@
 ## Certifications
 <a href="https://www.credly.com/badges/abcfb8e4-63db-42fd-9a52-8d2cb3fa3968/public_url"><img height="100" src="https://images.credly.com/size/680x680/images/d2298e82-b671-434a-876b-21a0ebc3af0e/image.png"></a>
 <a href="https://www.credly.com/badges/f8dcec28-383e-442a-8e6c-e4276f856ed7/public_url"><img height="100" src="https://images.credly.com/size/680x680/images/9b8f3d6e-ba8a-41e0-8f1c-8bdd4b267cb0/image.png"></a>
+<a href="https://www.credly.com/badges/8954d7fd-cd26-437f-acd5-4141383f02e7/public_url"><img height="100" src="https://images.credly.com/size/110x110/images/d9ee0bc3-2330-4694-abae-137d76b315e6/image.png"></a>
 
 ## Other technologies and Skills
 ### Version Control 
